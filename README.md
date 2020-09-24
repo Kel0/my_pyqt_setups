@@ -13,3 +13,6 @@ pip install invoke autoflake flake8 isort black mypy PySide2 PyQt5
 ldd /path_to_env/lib/python3.7/site-packages/PySide2/Qt/plugins/platforms/libqxcb.so | grep "not found"
 ```
 Then, install not found packages
+
+## Redis
+[Site](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-redis-on-ubuntu-16-04)
